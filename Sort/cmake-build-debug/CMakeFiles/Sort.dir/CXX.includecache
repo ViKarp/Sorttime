@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/vitya/CLionProjects/Sort/main.cpp
+iostream
+-
+stdlib.h
+-
+vector
+-
+chrono
+-
+cmath
+-
+fstream
+-
+
